@@ -6,6 +6,10 @@ It's one part of many for a project I'm working on, hence the functional style o
 But if you're interested in only the game code, here it is!
 <br>
 
+<img src="https://raw.githubusercontent.com/caleb221/ArduinoChromeDinoGame/main/Img/wholeArduino2.jpg" width = 500 height = 500>
+<img src="https://raw.githubusercontent.com/caleb221/ArduinoChromeDinoGame/main/Img/cactuses.jpg" width = 280 height = 230>
+<img src="https://raw.githubusercontent.com/caleb221/ArduinoChromeDinoGame/main/Img/withBird.jpg" width = 280 height = 230>
+<img src="https://raw.githubusercontent.com/caleb221/ArduinoChromeDinoGame/main/Img/deadScreen.jpg" width = 280 height = 230>
 
 # Hardware
     Arduino Compatible Board
